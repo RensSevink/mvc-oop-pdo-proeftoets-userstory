@@ -1,0 +1,8 @@
+body {
+  font-family: verdana;
+}
+
+.topicError {
+  font-size: 0.8em;
+  color: red;
+}
